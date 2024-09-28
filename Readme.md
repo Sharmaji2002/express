@@ -4,6 +4,7 @@
 
 **This project has a [Code of Conduct][].**
 
+# Tushar Sharma
 ## Table of contents
 
 * [Installation](#Installation)
